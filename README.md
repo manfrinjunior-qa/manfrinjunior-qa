@@ -1,4 +1,4 @@
-## Olá! Eu sou o Roberto Manfrin Junior - QA TEST 👋
+## 👋Olá! Eu sou o Roberto Manfrin Junior - QA TEST.
 
 ### 🚀 Sobre Mim
 #### "Sou um entusiasta de Quality Assurance, apaixonado por garantir a entrega de produtos de alta qualidade através de testes manuais, eficazes e automatizados."
