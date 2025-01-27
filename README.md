@@ -7,8 +7,9 @@
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manfrinjunior-qa)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-manfrin-junior-060034177/)
 [![INSTRAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robertomanfrinjunior?igsh=MWZ5c2FicGJ0cjVtdg==)
 
-
 ![Roberto Manfrin Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=manfrinjunior-qa&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manfrinjunior-qa&layout=compact)
 
 
 ### 🔎 Tecnologias que uso no meu dia:
