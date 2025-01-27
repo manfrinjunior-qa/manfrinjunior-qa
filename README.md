@@ -10,7 +10,6 @@
 
 ![Roberto Manfrin Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=manfrinjunior-qa&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manfrinjunior-qa&layout=compact)
 
 ### 🔎 Tecnologias que uso no meu dia:
 
