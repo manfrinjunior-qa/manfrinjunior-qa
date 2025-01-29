@@ -11,6 +11,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manfrinjunior-qa&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manfrinjunior-qa&layout=compact)
+
+
 
 ### 🔎 Tecnologias que uso no meu dia:
 
